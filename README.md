@@ -30,6 +30,7 @@ A research prototype that brings satellite heat detections, weather and a histor
 
 - **Native iOS** — Swift and SwiftUI, with a focus on polished, local-first experiences.
 - **Web** — Responsive interfaces and practical websites for small businesses.
+- **Design** — Brand identity and interface design. 
 - **Local AI** — Exploring local models with llama.cpp and Open WebUI, alongside self-hosted workflows that keep data under my control.
 
 ### AI Council
